@@ -1,0 +1,8 @@
+RELATORIO DE VENDAS DE CARROS
+========================================
+Carros  Ano   Valor
+  Onix 2022 50000.0
+  Polo 2024 70000.0
+  Argo 2022 55000.0
+  Kwid 2025 80000.0
+  HB20 2022 45000.0
